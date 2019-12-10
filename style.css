@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width:300px;
+    height:450px;
+    border: dotted;
+    color: blue; 
+}
+
+body{
+    background: darkgray;
+}
